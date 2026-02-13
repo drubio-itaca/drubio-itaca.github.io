@@ -71,7 +71,7 @@ export default defineConfig({
    * 
    * Set SITE_URL in your .env file (e.g., https://example.com)
    */
-  site: SITE_URL || 'https://drubio-itaca.github.io',
+  site:'https://drubio-itaca.github.io',
   
   /**
    * Environment variables schema (Astro v5+)
