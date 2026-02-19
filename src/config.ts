@@ -80,7 +80,7 @@ export const siteConfig = {
    */
   author: {
     /** Full name */
-    name: getEnv('SITE_AUTHOR_NAME', 'Tu nombre'),
+    name: getEnv('SITE_AUTHOR_NAME', 'David Rubio'),
     
     /** Professional title or role */
     title: getEnv('SITE_AUTHOR_TITLE', 'Senior Software Engineer'),
