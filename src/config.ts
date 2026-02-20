@@ -83,7 +83,7 @@ export const siteConfig = {
     name: getEnv('SITE_AUTHOR_NAME', 'David Rubio'),
     
     /** Professional title or role */
-    title: getEnv('SITE_AUTHOR_TITLE', 'Senior Software Engineer'),
+    title: getEnv('SITE_AUTHOR_TITLE', 'Junior Software Engineer'),
     
     /** Short biography or professional summary */
     bio: getEnv('SITE_AUTHOR_BIO', 'Engineering leader focused on solving complex technical challenges through thoughtful architecture and pragmatic trade-off analysis.'),
